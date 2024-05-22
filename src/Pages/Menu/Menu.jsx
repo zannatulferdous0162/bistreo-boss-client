@@ -14,16 +14,7 @@ const Menu = () => {
                 title ='Our Menu'
             ></Cover>
             <PopularMenu></PopularMenu>
-            <Cover
-                img={menuImg}
-                title ='Our Menu'
-            ></Cover>
-            <PopularMenu></PopularMenu>
-            <Cover
-                img={menuImg}
-                title ='Our Menu'
-            ></Cover>
-            <PopularMenu></PopularMenu>
+           
         </div>
     );
 };
